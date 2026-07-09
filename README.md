@@ -78,29 +78,13 @@
   <img src="https://skillicons.dev/icons?i=py,django,postgres,react,aws,docker&theme=dark" width="300">
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveeenkumar842&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveeenkumar842&layout=compact&theme=radical" width="48%">
-</p>
 
 ---
 
 ## 🏆 Experience
-
-### Python Developer | Four Serv Global | Hyderabad
-**Sep 2022 – Sep 2025**
-
 - Built **Agentic SDLC Platform** – multi-agent AI system reducing manual test authoring by **40%**
 - Developed **ICAM Fleet Management Platform** – tracking 2,000+ vehicles with **250,000+ events/day** and **99.9% uptime**
 - Designed 50+ REST APIs with JWT authentication and role-based access control
-
-### Full Stack Developer | Adroit Corporate | Hyderabad
-**Apr 2021 – Aug 2022**
-
 - Built enterprise **Document Management System** serving **10,000+ users**
 - Implemented 5-step workflow automation, reducing approval time by **45%**
 
