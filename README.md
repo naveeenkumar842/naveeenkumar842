@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Based in **Hyderabad, India**
-- 💼 **AI Backend Engineer** with 5+ years of experience
+- 💼 **AI Backend Engineer** with 4.5+ years of experience
 - 🚀 Built production applications in **FinTech, Insurance, and Fleet Management**
 - 🤖 Specialized in **Agentic AI, RAG Systems, and LLM Integration**
 - ⚡ Available for **immediate opportunities**
