@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Sunki 👋</h1>
-<h3 align="center" style="color:#1F6FEB;">AI Backend Engineer | Python, Django, FastAPI, AWS</h3>
+<h3 align="center" style="color:#1F6FEB;">Python Developer | Django · DRF · FastAPI · REST APIs · GenAI (LangChain/LangGraph)</h3>
 
 <!-- CONTACT BADGES -->
 <p align="center">
@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Hyderabad,_India-red?style=flat&logo=map-pin">
   <img src="https://img.shields.io/badge/Availability-Immediate-green?style=flat&logo=clock">
-  <img src="https://img.shields.io/badge/Experience-5%2B_Years-blue?style=flat&logo=star">
+  <img src="https://img.shields.io/badge/Experience-4.5%2B_Years-blue?style=flat&logo=star">
 </p>
 
 ---
@@ -26,9 +26,9 @@
 ## 👨‍💻 About Me
 
 - 🔭 Based in **Hyderabad, India**
-- 💼 **AI Backend Engineer** with 4.5+ years of experience
-- 🚀 Built production applications in **FinTech, Insurance, and Fleet Management**
-- 🤖 Specialized in **Agentic AI, RAG Systems, and LLM Integration**
+- 💼 **Python Backend Developer** (Django · DRF · FastAPI) with 4.5+ years of experience
+- 🚀 Built production applications in **FinTech, Insurance, Banking, and Fleet Management**
+- 🤖 Also build **GenAI systems — LangGraph multi-agent workflows and hybrid RAG pipelines**
 - ⚡ Available for **immediate opportunities**
 
 ---
@@ -108,32 +108,36 @@
 
 ## 🚀 Featured Projects
 
-### [Agentic SDLC Platform](https://github.com/naveeenkumar842/agentic-sdlc-platform)
-> Multi-agent AI system with BA, DA, and QA agents automating test case generation.
-- **Tech:** FastAPI, LangChain, Groq, React, PostgreSQL
+### [Agentic Adaptive RAG System](https://github.com/naveeenkumar842/Agentic-Adaptive-RAG-System)
+> Self-correcting RAG with hybrid search (BM25 + Semantic) and CRAG fallback.
+- **Tech:** FastAPI, LangGraph, OpenAI, Groq, pgvector, ChromaDB, Docker
+- **Result:** ~80% LLM cost reduction, ~40% retrieval accuracy improvement
+
+### [Agentic SDLC Platform](https://github.com/naveeenkumar842/Agentic-Software-Development-Lifecycle-Platform)
+> Multi-agent AI system (Business Analyst, Design, and QA agents) automating test case generation.
+- **Tech:** FastAPI, LangChain, OpenAI, React, PostgreSQL
 - **Result:** 40% reduction in manual test authoring
 
-### [Adaptive RAG System](https://github.com/naveeenkumar842/adaptive-rag-system)
-> Self-correcting RAG with hybrid search (BM25 + Semantic) and CRAG fallback.
-- **Tech:** LangChain, ChromaDB, Groq, FastAPI, pgvector
-- **Result:** 80% cost reduction, 40% accuracy improvement
+### [Enterprise OCR Document Validation Engine](https://github.com/naveeenkumar842/ocr_bank_kyc_documents)
+> Multi-format OCR pipeline for 5 Indian ID document types, automating KYC verification.
+- **Tech:** Python, Django, OpenCV, PaddleOCR, Tesseract
+- **Result:** 95% field-extraction accuracy, 60% less manual review
 
-### [ICAM Fleet Management Platform](https://github.com/naveeenkumar842/fleet-management)
+### ICAM Fleet Management Platform *(company project — Four Serv Global)*
 > Real-time vehicle tracking for 2,000+ vehicles with 250,000+ events/day.
-- **Tech:** Django, PostgreSQL, AWS, React, Redis
-- **Result:** 99.9% uptime
+- **Tech:** Django, Flask, FastAPI, PostgreSQL, MongoDB, Celery, Redis, AWS
+- **Result:** 99.9% uptime, 35% lower API latency
 
 ---
 
-## 💼 Experience
+## 💼 Experience Highlights
 
-- Built Agentic SDLC Platform reducing manual test authoring by 40%
-- Built Fleet Management Platform tracking 2,000+ vehicles, 250K+ events/day
-- Designed 50+ REST APIs with JWT authentication
-- Containerized with Docker, deployed on AWS
-- Built Document Management System for 10,000+ users
-- Implemented 5-step workflow automation reducing approval time by 45%
-- Designed REST APIs with Oracle database
+- Scaled a real-time vehicle telematics platform to **250K+ events/day** for **2,000+ assets** at **99.9% uptime** (Django, Celery, Redis, MongoDB, AWS)
+- Cut API latency **35%** and increased throughput **2.5x** through PostgreSQL schema and query optimization
+- Built a Central KYC (CKYC) platform with maker–checker workflows, CERSAI integration, and OCR-based identity-document processing
+- Built a LangGraph multi-agent test-automation workflow, cutting manual test-writing time by **40%**
+- Built an enterprise Document Management System (10,000+ files) with 5-step approval workflows, RBAC, and encryption (Django REST Framework, Oracle)
+- Deployed on AWS (EC2, S3, RDS, Lambda) with Docker, Nginx/Gunicorn, and GitHub Actions CI/CD
 
 
 ## 📜 Certifications
