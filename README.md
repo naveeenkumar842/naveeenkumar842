@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Sunki 👋</h1>
-<h3 align="center" style="color:#1F6FEB;">Python Developer | Django · DRF · FastAPI · REST APIs · GenAI (LangChain/LangGraph)</h3>
+<h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Kumar Sunki 👋</h1>
+<h3 align="center" style="color:#1F6FEB;">Full Stack Python Developer | Django · DRF · FastAPI · REST APIs · React ·AWS · GenAI (LangChain/LangGraph)</h3>
 
 <!-- CONTACT BADGES -->
 <p align="center">
@@ -132,7 +132,7 @@
 
 ## 💼 Experience Highlights
 
-- Scaled a real-time vehicle telematics platform to **250K+ events/day** for **2,000+ assets** at **99.9% uptime** (Django, Celery, Redis, MongoDB, AWS)
+- Scaled a real-time vehicle telematics platform to **250K+ events/day** for **2,000+ assets** at **99.9% uptime** (Django, Celery, Redis, Postgresql, AWS)
 - Cut API latency **35%** and increased throughput **2.5x** through PostgreSQL schema and query optimization
 - Built a Central KYC (CKYC) platform with maker–checker workflows, CERSAI integration, and OCR-based identity-document processing
 - Built a LangGraph multi-agent test-automation workflow, cutting manual test-writing time by **40%**
