@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Based in **Hyderabad, India**
-- 💼 **Python Backend Developer** (Django · DRF · FastAPI) with 4.5+ years of experience
+- 💼 **Python Backend Developer** (Django · DRF · FastAPI) with 5 years of experience
 - 🚀 Built production applications in **FinTech, Insurance, Banking, and Fleet Management**
 - 🤖 Also build **GenAI systems — LangGraph multi-agent workflows and hybrid RAG pipelines**
 - ⚡ Available for **immediate opportunities**
