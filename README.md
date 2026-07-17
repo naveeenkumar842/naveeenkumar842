@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Kumar Sunki 👋</h1>
-<h3 align="center" style="color:#1F6FEB;">Full Stack Python Developer | Django · DRF · FastAPI · REST APIs · React · AWS · GenAI (LangChain/LangGraph)</h3>
+<h3 align="center" style="color:#1F6FEB;">Python Developer | Django · DRF · FastAPI · REST APIs · React · AWS · GenAI (LangChain/LangGraph)</h3>
 
 <!-- CONTACT BADGES -->
 <p align="center">
@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Based in **Hyderabad, India**
-- 💼 **Full Stack Python Developer** (Django · DRF · FastAPI) with 5 years of experience
+- 💼 **Python Developer** (Django · DRF · FastAPI) with 5 years of experience
 - 🚀 Built production applications in **FinTech, Insurance, Banking, and Fleet Management**
 - 🤖 Also build **GenAI systems — LangGraph multi-agent workflows and hybrid RAG pipelines**
 - ⚡ Available for **immediate opportunities**
