@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Kumar Sunki 👋</h1>
-<h3 align="center" style="color:#1F6FEB;">Full Stack Python Developer | Django · DRF · FastAPI · REST APIs · React ·AWS · GenAI (LangChain/LangGraph)</h3>
+<h3 align="center" style="color:#1F6FEB;">Full Stack Python Developer | Django · DRF · FastAPI · REST APIs · React · AWS · GenAI (LangChain/LangGraph)</h3>
 
 <!-- CONTACT BADGES -->
 <p align="center">
