@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Kumar Sunki 👋</h1>
-<h3 align="center" style="color:#1F6FEB;">Python Developer | Django · DRF · FastAPI · REST APIs · React · AWS · GenAI (LangChain/LangGraph)</h3>
+<h3 align="center" style="color:#1F6FEB;">Python Developer | Django · DRF · FastAPI · REST APIs · AWS · GenAI (LangChain/LangGraph)</h3>
 
 <!-- CONTACT BADGES -->
 <p align="center">
@@ -50,13 +50,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white">
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 </p>
 
 ### 🗄️ Databases
