@@ -118,7 +118,7 @@
 
 ### ICAM Fleet Management Platform *(company project — Four Serv Global)*
 > Real-time vehicle tracking for 2,000+ vehicles with 250,000+ events/day.
-- **Tech:** Django, Flask, FastAPI, PostgreSQL, MongoDB, Celery, Redis, AWS
+- **Tech:** Django, Flask, FastAPI, PostgreSQL,Celery, Redis, AWS
 - **Result:** 99.9% uptime, 35% lower API latency
 
 ---
