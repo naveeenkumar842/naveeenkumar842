@@ -68,13 +68,17 @@ python daily_push.py --complete 1
 | **06** | System Design | **$O(1)$ LRU Cache** | Doubly Linked List + Hash Map, MRU/LRU eviction |
 | **07** | System Design | **Sliding Window Rate Limiter** | Timestamp logs, sliding window boundary calculation |
 | **08** | System Design | **Factory & Strategy Patterns** | Decoupled payment gateway processors, abstract interfaces |
-| **09** | System Design | **Observer & Pub/Sub Pattern** | Event driven domain event dispatchers |
-| **10** | Database & ORM | **Connection Pooling Guard** | Pool starvation prevention & connection checkout |
-| **11** | Database & ORM | **SQLAlchemy 2.0 Models** | Async sessions, relations, cascade deletes |
-| **12** | Database & ORM | **Query Optimization** | Indexing strategies, avoiding N+1 query problems |
-| **13** | Database & ORM | **ACID Transactions** | Isolation levels, optimistic vs pessimistic locking |
-| **14** | Database & ORM | **Redis Cache Strategy** | Cache-aside pattern, TTL expiration, invalidation |
-| **15+**| API Engineering | **FastAPI, JWT, Middleware & CI** | Production security, background tasks, monitoring |
+| **09** | VectorDB & RAG | **Embeddings & Text Chunking** | Recursive character chunking & Cosine Distance calculation |
+| **10** | VectorDB & RAG | **In-Memory Vector Database** | HNSW/ANN similarity search & metadata payload filtering |
+| **11** | VectorDB & RAG | **Naive RAG Pipeline** | Context retrieval, prompt injection & LLM generation guard |
+| **12** | VectorDB & RAG | **Hybrid Search & Reranking** | Dense vector + Sparse BM25 search & Reciprocal Rank Fusion |
+| **13** | Agentic RAG & LangGraph | **LangChain Expression Language** | LCEL composition (`prompt \| llm \| parser`) & custom tools |
+| **14** | Agentic RAG & LangGraph | **LangGraph Stateful Routing** | StateGraph, node state transitions, conditional edges & loops |
+| **15** | Agentic RAG & LangGraph | **Self-Corrective Agentic RAG** | Corrective RAG (CRAG), doc relevance grading & query rewriting |
+| **16** | Agentic RAG & LangGraph | **Multi-Agent Supervisor** | Multi-agent task routing, supervisor orchestration & synthesis |
+| **17** | MLOps & Production | **RAGAS Evaluation Framework** | Faithfulness, Answer Relevancy & Context Recall metrics |
+| **18** | MLOps & Production | **LLM Telemetry & Tracing** | Token count tracking, latency metrics & API cost calculation |
+| **19** | MLOps & Production | **High-Throughput Inference** | Dynamic batch processing & vector inference engine |
 
 ---
 
