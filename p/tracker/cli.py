@@ -62,6 +62,83 @@ CHALLENGES = {
         "module": "System Design & Patterns",
         "path": "challenges/week2_system_design_patterns/day08_factory_strategy_pattern",
         "test": "challenges/week2_system_design_patterns/day08_factory_strategy_pattern/test_day08.py"
+    },
+    9: {
+        "title": "Text Chunking & Cosine Embeddings",
+        "week": 3,
+        "module": "VectorDB & Advanced RAG",
+        "path": "challenges/week3_ai_rag_vectordb/day09_embeddings_chunking",
+        "test": "challenges/week3_ai_rag_vectordb/day09_embeddings_chunking/test_day09.py"
+    },
+    10: {
+        "title": "In-Memory VectorDB & Metadata Indexing",
+        "week": 3,
+        "module": "VectorDB & Advanced RAG",
+        "path": "challenges/week3_ai_rag_vectordb/day10_vectordb_chroma_qdrant",
+        "test": "challenges/week3_ai_rag_vectordb/day10_vectordb_chroma_qdrant/test_day10.py"
+    },
+    11: {
+        "title": "End-to-End RAG Pipeline",
+        "week": 3,
+        "module": "VectorDB & Advanced RAG",
+        "path": "challenges/week3_ai_rag_vectordb/day11_naive_rag_pipeline",
+        "test": "challenges/week3_ai_rag_vectordb/day11_naive_rag_pipeline/test_day11.py"
+    },
+    12: {
+        "title": "Hybrid Search & Reciprocal Rank Fusion",
+        "week": 3,
+        "module": "VectorDB & Advanced RAG",
+        "path": "challenges/week3_ai_rag_vectordb/day12_hybrid_search_reranking",
+        "test": "challenges/week3_ai_rag_vectordb/day12_hybrid_search_reranking/test_day12.py"
+    },
+    13: {
+        "title": "LangChain Expression Language (LCEL)",
+        "week": 4,
+        "module": "Agentic RAG & LangGraph",
+        "path": "challenges/week4_agentic_rag_langchain_langgraph/day13_langchain_chains_lcel",
+        "test": "challenges/week4_agentic_rag_langchain_langgraph/day13_langchain_chains_lcel/test_day13.py"
+    },
+    14: {
+        "title": "LangGraph Stateful Graph Routing",
+        "week": 4,
+        "module": "Agentic RAG & LangGraph",
+        "path": "challenges/week4_agentic_rag_langchain_langgraph/day14_langgraph_stateful_agents",
+        "test": "challenges/week4_agentic_rag_langchain_langgraph/day14_langgraph_stateful_agents/test_day14.py"
+    },
+    15: {
+        "title": "Self-Corrective Agentic RAG (Self-RAG)",
+        "week": 4,
+        "module": "Agentic RAG & LangGraph",
+        "path": "challenges/week4_agentic_rag_langchain_langgraph/day15_agentic_rag_self_correction",
+        "test": "challenges/week4_agentic_rag_langchain_langgraph/day15_agentic_rag_self_correction/test_day15.py"
+    },
+    16: {
+        "title": "Multi-Agent Supervisor Orchestration",
+        "week": 4,
+        "module": "Agentic RAG & LangGraph",
+        "path": "challenges/week4_agentic_rag_langchain_langgraph/day16_multi_agent_collaboration",
+        "test": "challenges/week4_agentic_rag_langchain_langgraph/day16_multi_agent_collaboration/test_day16.py"
+    },
+    17: {
+        "title": "RAGAS Evaluation & Faithfulness Metrics",
+        "week": 5,
+        "module": "MLOps & Production Serving",
+        "path": "challenges/week5_mlops_eval_production/day17_rag_evaluation_ragas",
+        "test": "challenges/week5_mlops_eval_production/day17_rag_evaluation_ragas/test_day17.py"
+    },
+    18: {
+        "title": "LLM Observability, Cost & Telemetry Tracing",
+        "week": 5,
+        "module": "MLOps & Production Serving",
+        "path": "challenges/week5_mlops_eval_production/day18_mlops_model_observability",
+        "test": "challenges/week5_mlops_eval_production/day18_mlops_model_observability/test_day18.py"
+    },
+    19: {
+        "title": "High-Throughput Production Inference & Batching",
+        "week": 5,
+        "module": "MLOps & Production Serving",
+        "path": "challenges/week5_mlops_eval_production/day19_quantization_onnx_serving",
+        "test": "challenges/week5_mlops_eval_production/day19_quantization_onnx_serving/test_day19.py"
     }
 }
 

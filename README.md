@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Kumar Sunki 👋</h1>
-<h3 align="center" style="color:#1F6FEB;">Python Developer | Django · DRF · FastAPI · REST APIs · AWS · GenAI (LangChain/LangGraph)</h3>
+<h1 align="center" style="color:#58A6FF;">Hi, I'm Naveen Sunki 👋</h1>
+<h3 align="center" style="color:#1F6FEB;">Python Developer | Django · DRF · FastAPI · REST APIs · GenAI (LangChain/LangGraph)</h3>
 
 <!-- CONTACT BADGES -->
 <p align="center">
@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Based in **Hyderabad, India**
-- 💼 **Python Developer** (Django · DRF · FastAPI) with 5 years of experience
+- 💼 **Python Backend Developer** (Django · DRF · FastAPI) with 4.5+ years of experience
 - 🚀 Built production applications in **FinTech, Insurance, Banking, and Fleet Management**
 - 🤖 Also build **GenAI systems — LangGraph multi-agent workflows and hybrid RAG pipelines**
 - ⚡ Available for **immediate opportunities**
@@ -50,6 +50,13 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white">
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 </p>
 
 ### 🗄️ Databases
@@ -118,14 +125,14 @@
 
 ### ICAM Fleet Management Platform *(company project — Four Serv Global)*
 > Real-time vehicle tracking for 2,000+ vehicles with 250,000+ events/day.
-- **Tech:** Django, Flask, FastAPI, PostgreSQL,Celery, Redis, AWS
+- **Tech:** Django, Flask, FastAPI, PostgreSQL, MongoDB, Celery, Redis, AWS
 - **Result:** 99.9% uptime, 35% lower API latency
 
 ---
 
 ## 💼 Experience Highlights
 
-- Scaled a real-time vehicle telematics platform to **200K+ events/day** for **2,000+ assets** at **95% uptime** (Django, Celery, Redis, Postgresql, AWS)
+- Scaled a real-time vehicle telematics platform to **250K+ events/day** for **2,000+ assets** at **99.9% uptime** (Django, Celery, Redis, MongoDB, AWS)
 - Cut API latency **35%** and increased throughput **2.5x** through PostgreSQL schema and query optimization
 - Built a Central KYC (CKYC) platform with maker–checker workflows, CERSAI integration, and OCR-based identity-document processing
 - Built a LangGraph multi-agent test-automation workflow, cutting manual test-writing time by **40%**
